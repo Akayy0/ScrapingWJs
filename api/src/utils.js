@@ -1,4 +1,3 @@
-// src/utils.js
 const fs = require("fs");
 
 const generateTitle = (product, link) => {
