@@ -4,6 +4,7 @@
   "description": "api for webscraping",
   "main": "server.js",
   "scripts": {
+    "test": "jest --detectOpenHandles",
     "start": "node src/server.js"
   },
   "author": "Akayy",
